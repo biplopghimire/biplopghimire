@@ -34,8 +34,8 @@
 ### **Tartan Ninja**
 - Created a Carnegie Mellon University-inspired clone of the classic game "Fruit Ninja" using Python.
 
-### **Equity Research Automation**
-- Built financial data pipelines and reporting tools during my internship at Ridgewood Investments.
+### **Say it with Sweets Website**
+- Redisnged a website for a bakery located in Altoona, PA using HTML, CSS, and Javascript.
 
 ---
 
@@ -48,13 +48,13 @@
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Biplop-blue?style=flat-square&logo=linkedin)](http://www.linkedin.com/in/biplopghimire)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome)](http://www.biplopghimire.com)
 
 ---
 
 ## 🎯 Fun Facts
-- 💡 I love automating repetitive tasks to save time and focus on innovation.
-- 🎮 In my free time, I enjoy recreating classic games and learning new tech tools.
+- 💡 I enjoy automating repetitive tasks to save time and focus on innovation.
+- ⚽️ I am a big soccer fan and have supported FC Barcelona all my life.
+- ✈️ I love to travel and explore the world one step at a time.
 
 ---
 
